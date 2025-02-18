@@ -4,8 +4,8 @@
 This project allows you to securely hide files on the operating system, preventing them from being listed by common commands like `dir`. Ideal for keeping sensitive files out of sight of regular users.
 
 ## 🚀 Features
-✅ Hides files so they do not appear in common directories.
-✅ Protection against listing via terminal or file explorer.
+✅ Hides files so they do not appear in common directories.</br>
+✅ Protection against listing via terminal or file explorer.</br>
 ✅ Supports Windows.
 
 
@@ -16,8 +16,8 @@ On **Windows**, the program uses system attributes to hide the file:
 - `ReadOnly`: Prevents accidental modification.
 
 ## ⚠️ Legal Disclaimer
-🔹 This software is provided for educational purposes only.
-🔹 Misuse may violate operating system security policies.
+🔹 This software is provided for educational purposes only.</br>
+🔹 Misuse may violate operating system security policies.</br>
 🔹 Use at your own risk.
 
 <p align="center">
